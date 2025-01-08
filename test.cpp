@@ -2,7 +2,7 @@
 #include <vector>
 
 int main(){
-    DEBUG_LOG("sarthak ", 10, " ", 20, " ", 1);
+    DEBUG_LOG("sid ", 10, " ", 20, " ", 1);
     std::string s("testing...");
     INFO_LOG(s.c_str(), 123);
     std::vector<std::thread> v;
